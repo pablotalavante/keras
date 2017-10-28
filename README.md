@@ -1,2 +1,2 @@
 # keras
-my first keras nn
+hello everyone
